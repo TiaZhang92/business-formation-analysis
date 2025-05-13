@@ -42,3 +42,9 @@ This project aims to predict the number of business applications in the US using
 This project is part of the Udacity Data Scientist Nanodegree.
 
 
+## Medium Blog Post
+As part of this project, I also wrote a blog post that walks through the full data science process — from exploration to modeling and insights. In the post, I highlight key findings, explain my modeling approach, and reflect on what the data tells us about entrepreneurship trends in the U.S.
+
+ [Decoding America’s Entrepreneurial Pulse](https://medium.com/@tianyizhang0092/decoding-americas-entrepreneurial-pulse-what-business-application-data-reveals-about-our-economic-e839d4edf8fc)
+
+Feel free to check it out for a more narrative and visual explanation of the project!
